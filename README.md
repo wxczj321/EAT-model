@@ -29,6 +29,7 @@ The proposed EAT model improves robustness and generalization ability.
 * ResNet
 * CNN L2
 * CNN GloVe
+* RoBERTa results are obtained by fine-tuning the pretrained model from Huggingface:https://huggingface.co/FacebookAI/roberta-base
 
 ### Ablation Study
 
